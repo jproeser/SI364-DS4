@@ -4,6 +4,8 @@ import requests
 
 app = Flask(__name__)
 
+##### DISCUSSION 4 #####
+
 # Challenge 1: Return the 404.html template
 # Edit it such that it displays an interesting message
 
